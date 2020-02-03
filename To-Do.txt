@@ -1,1 +1,9 @@
-Notes on simplicial sets
+* Urgent before school starts :
+Exercises to Representation of Finite Groups by J.P.Serre 
+
+* Urgent before school ends :
+Notes on Sheaves on Manifolds
+
+* Want to do in leisure time
+Notes on Rational Homotopy Theory
+Notes on Simplicial Sets
